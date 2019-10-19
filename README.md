@@ -2,8 +2,8 @@
 
 
 
-# Monster
-## Power
+# ----MONSTER----
+## RULES:
 
 - Do not abuse
 - Do not question the owner
