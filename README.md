@@ -1,5 +1,5 @@
 <h1>
-  <p style="font-size=60px">Monster-power</p>
+  <p style="font-size=600px">Monster-power</p>
 <ol>
   <li>Do not abuse </li>
   <li>do not question the owner</li>
