@@ -1,4 +1,4 @@
-
+<img src="icon.png" align="right" />
 # Monster-power
 
 - Do not abuse
