@@ -10,5 +10,6 @@
 - Share your idea everyday
 - Stay active
 
+`NO THANKS`
 
 :star: Star us on GitHub
