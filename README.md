@@ -2,7 +2,7 @@
 
 
 
-# ----MONSTER----
+# ------MONSTER------
 ## RULES:
 
 - Do not abuse
