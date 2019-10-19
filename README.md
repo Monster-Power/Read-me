@@ -1,6 +1,7 @@
 <img src="icon.png" align="right" />
 
 
+
 # Monster-power
 
 - Do not abuse
@@ -8,3 +9,6 @@
 - Owner knows better
 - Share your idea everyday
 - Stay active
+
+
+:star: Star us on GitHub
