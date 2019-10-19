@@ -1,10 +1,9 @@
-<h1>
-  <p style="font-size=100000px">Monster-power</p>
-<ol>
-  <li>Do not abuse.</li>
-  <li>Do not question the owner.</li>
-  <li>Owner knows better.</li>
-  <li>Share your idea everyday.</li>
-  <li>Stay active.</li> 
-  </ol>
-</h1>
+##Monster-power
+# Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> A curated list of awesome READMEs
+
+-Do not abuse
+-Do not question the owner
+-Owner knows better
+-Share your idea everyday
+-Stay active
